@@ -1,0 +1,14 @@
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.exe
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.deps.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.runtimeconfig.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.runtimeconfig.dev.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.csproj.AssemblyReference.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.AssemblyInfo.cs
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.genruntimeconfig.cache

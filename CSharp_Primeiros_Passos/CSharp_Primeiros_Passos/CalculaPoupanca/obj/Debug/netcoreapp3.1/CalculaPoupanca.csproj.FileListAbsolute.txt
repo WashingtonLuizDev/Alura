@@ -1,0 +1,14 @@
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\bin\Debug\netcoreapp3.1\CalculaPoupanca.exe
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\bin\Debug\netcoreapp3.1\CalculaPoupanca.deps.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\bin\Debug\netcoreapp3.1\CalculaPoupanca.runtimeconfig.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\bin\Debug\netcoreapp3.1\CalculaPoupanca.runtimeconfig.dev.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\bin\Debug\netcoreapp3.1\CalculaPoupanca.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\bin\Debug\netcoreapp3.1\CalculaPoupanca.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\obj\Debug\netcoreapp3.1\CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\obj\Debug\netcoreapp3.1\CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\obj\Debug\netcoreapp3.1\CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\obj\Debug\netcoreapp3.1\CalculaPoupanca.AssemblyInfo.cs
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\obj\Debug\netcoreapp3.1\CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\obj\Debug\netcoreapp3.1\CalculaPoupanca.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\obj\Debug\netcoreapp3.1\CalculaPoupanca.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca\obj\Debug\netcoreapp3.1\CalculaPoupanca.genruntimeconfig.cache

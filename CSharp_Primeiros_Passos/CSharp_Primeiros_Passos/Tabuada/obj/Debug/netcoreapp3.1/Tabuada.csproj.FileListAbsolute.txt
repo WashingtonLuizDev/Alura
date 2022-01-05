@@ -1,0 +1,14 @@
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.exe
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.deps.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.dev.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.AssemblyReference.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfo.cs
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.genruntimeconfig.cache

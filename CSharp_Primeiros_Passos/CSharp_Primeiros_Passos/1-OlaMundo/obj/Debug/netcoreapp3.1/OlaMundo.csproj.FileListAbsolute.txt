@@ -1,0 +1,14 @@
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.exe
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.deps.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.runtimeconfig.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.runtimeconfig.dev.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.csproj.AssemblyReference.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.AssemblyInfo.cs
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\1-OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.genruntimeconfig.cache

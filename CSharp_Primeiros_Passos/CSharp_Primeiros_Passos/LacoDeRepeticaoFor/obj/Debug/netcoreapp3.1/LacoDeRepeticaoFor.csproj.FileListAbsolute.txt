@@ -1,0 +1,13 @@
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.exe
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.deps.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.runtimeconfig.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.runtimeconfig.dev.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.AssemblyInfo.cs
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.genruntimeconfig.cache

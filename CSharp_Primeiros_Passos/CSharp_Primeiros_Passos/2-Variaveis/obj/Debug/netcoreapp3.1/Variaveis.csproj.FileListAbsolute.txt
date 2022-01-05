@@ -1,0 +1,14 @@
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\bin\Debug\netcoreapp3.1\Variaveis.exe
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\bin\Debug\netcoreapp3.1\Variaveis.deps.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\bin\Debug\netcoreapp3.1\Variaveis.runtimeconfig.dev.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\bin\Debug\netcoreapp3.1\Variaveis.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\bin\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.AssemblyReference.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\obj\Debug\netcoreapp3.1\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\obj\Debug\netcoreapp3.1\Variaveis.AssemblyInfo.cs
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\obj\Debug\netcoreapp3.1\Variaveis.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\obj\Debug\netcoreapp3.1\Variaveis.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\obj\Debug\netcoreapp3.1\Variaveis.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\2-Variaveis\obj\Debug\netcoreapp3.1\Variaveis.genruntimeconfig.cache

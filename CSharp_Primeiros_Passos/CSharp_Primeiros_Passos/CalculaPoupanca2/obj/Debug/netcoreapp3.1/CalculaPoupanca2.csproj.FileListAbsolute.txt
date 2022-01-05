@@ -1,0 +1,14 @@
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\bin\Debug\netcoreapp3.1\CalculaPoupanca2.exe
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\bin\Debug\netcoreapp3.1\CalculaPoupanca2.deps.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\bin\Debug\netcoreapp3.1\CalculaPoupanca2.runtimeconfig.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\bin\Debug\netcoreapp3.1\CalculaPoupanca2.runtimeconfig.dev.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\bin\Debug\netcoreapp3.1\CalculaPoupanca2.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\bin\Debug\netcoreapp3.1\CalculaPoupanca2.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\obj\Debug\netcoreapp3.1\CalculaPoupanca2.csproj.AssemblyReference.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\obj\Debug\netcoreapp3.1\CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\obj\Debug\netcoreapp3.1\CalculaPoupanca2.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\obj\Debug\netcoreapp3.1\CalculaPoupanca2.AssemblyInfo.cs
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\obj\Debug\netcoreapp3.1\CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\obj\Debug\netcoreapp3.1\CalculaPoupanca2.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\obj\Debug\netcoreapp3.1\CalculaPoupanca2.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\CalculaPoupanca2\obj\Debug\netcoreapp3.1\CalculaPoupanca2.genruntimeconfig.cache

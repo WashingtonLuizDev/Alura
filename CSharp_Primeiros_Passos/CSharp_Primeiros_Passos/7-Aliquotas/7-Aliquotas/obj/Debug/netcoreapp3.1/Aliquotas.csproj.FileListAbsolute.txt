@@ -1,0 +1,13 @@
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\bin\Debug\netcoreapp3.1\Aliquotas.exe
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\bin\Debug\netcoreapp3.1\Aliquotas.deps.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\bin\Debug\netcoreapp3.1\Aliquotas.runtimeconfig.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\bin\Debug\netcoreapp3.1\Aliquotas.runtimeconfig.dev.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\bin\Debug\netcoreapp3.1\Aliquotas.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\bin\Debug\netcoreapp3.1\Aliquotas.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\obj\Debug\netcoreapp3.1\Aliquotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\obj\Debug\netcoreapp3.1\Aliquotas.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\obj\Debug\netcoreapp3.1\Aliquotas.AssemblyInfo.cs
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\obj\Debug\netcoreapp3.1\Aliquotas.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\obj\Debug\netcoreapp3.1\Aliquotas.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\obj\Debug\netcoreapp3.1\Aliquotas.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\7-Aliquotas\7-Aliquotas\obj\Debug\netcoreapp3.1\Aliquotas.genruntimeconfig.cache

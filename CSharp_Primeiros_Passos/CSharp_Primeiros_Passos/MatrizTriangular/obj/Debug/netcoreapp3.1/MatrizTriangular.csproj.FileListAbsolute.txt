@@ -1,0 +1,14 @@
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\bin\Debug\netcoreapp3.1\MatrizTriangular.exe
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\bin\Debug\netcoreapp3.1\MatrizTriangular.deps.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\bin\Debug\netcoreapp3.1\MatrizTriangular.runtimeconfig.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\bin\Debug\netcoreapp3.1\MatrizTriangular.runtimeconfig.dev.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\bin\Debug\netcoreapp3.1\MatrizTriangular.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\bin\Debug\netcoreapp3.1\MatrizTriangular.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\obj\Debug\netcoreapp3.1\MatrizTriangular.csproj.AssemblyReference.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\obj\Debug\netcoreapp3.1\MatrizTriangular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\obj\Debug\netcoreapp3.1\MatrizTriangular.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\obj\Debug\netcoreapp3.1\MatrizTriangular.AssemblyInfo.cs
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\obj\Debug\netcoreapp3.1\MatrizTriangular.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\obj\Debug\netcoreapp3.1\MatrizTriangular.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\obj\Debug\netcoreapp3.1\MatrizTriangular.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\MatrizTriangular\obj\Debug\netcoreapp3.1\MatrizTriangular.genruntimeconfig.cache

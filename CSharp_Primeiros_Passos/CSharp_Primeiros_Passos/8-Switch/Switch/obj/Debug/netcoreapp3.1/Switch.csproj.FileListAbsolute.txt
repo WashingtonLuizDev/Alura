@@ -1,0 +1,14 @@
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\bin\Debug\netcoreapp3.1\Switch.exe
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\bin\Debug\netcoreapp3.1\Switch.deps.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\bin\Debug\netcoreapp3.1\Switch.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\bin\Debug\netcoreapp3.1\Switch.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.AssemblyReference.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\obj\Debug\netcoreapp3.1\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.CoreCompileInputs.cache
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\obj\Debug\netcoreapp3.1\Switch.dll
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\obj\Debug\netcoreapp3.1\Switch.pdb
+C:\Projetos\GitHub\Alura\CSharp_Primeiros_Passos\CSharp_Primeiros_Passos\8-Switch\Switch\obj\Debug\netcoreapp3.1\Switch.genruntimeconfig.cache
