@@ -6,28 +6,61 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
-            //ContaCorrente conta = new ContaCorrente(7480, 874150);
+            CarregarContas();
 
-            //Console.WriteLine(ContaCorrente.TaxaOperacao);
+            Console.WriteLine("Execução finalizada. Tecle enter para sair");
+            Console.ReadLine();
+        }
 
+        private static void CarregarContas()
+        {
+            using (LeitorDeArquivo leitor = new LeitorDeArquivo("teste.txt"))
+            {
+                leitor.LerProximaLinha();
+            }
+            //LeitorDeArquivo leitor = null;
+            //try
+            //{
+            //    -------leitor = new LeitorDeArquivo("contas.txt");
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //}
+            //catch (IOException)
+            //{
+            //    Console.WriteLine("Exceção do tipo IOException capturada e tratada!");
+            //}
+            //finally {
+            //    if(leitor != null)
+            //        leitor.FecharArquivo();
+            //}
+            
+        }
+
+        private static void TestaInnerException()
+        {
             try
             {
-                Metodo();
-            }
-            catch (NullReferenceException excecao)
-            {
-                Console.WriteLine($"{excecao.Message}");
-                Console.WriteLine($"{excecao.StackTrace}");
-                Console.WriteLine($"Aconteceu um erro!");
-            }
-            catch (DivideByZeroException erro)
-            {
-                Console.WriteLine(erro.Message);
-                Console.WriteLine(erro.StackTrace);
-                Console.WriteLine("Não é possível fazer uma divisão por 0!");
-            }
+                ContaCorrente conta1 = new ContaCorrente(574, 123456789);
+                ContaCorrente conta2 = new ContaCorrente(574, 987654321);
 
-            Console.ReadLine();
+                //conta1.Transferir(10000, conta2);
+                conta1.Sacar(10000);
+
+                //conta1.Depositar(50);
+                //Console.WriteLine(conta1.Saldo);
+                //conta1.Sacar(-500);
+                //Console.WriteLine(conta1.Saldo);
+            }
+            catch (OperacaoFinanceiraException ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.StackTrace);
+
+                //Console.WriteLine("Informações da Inner Exception (exceção interna):");
+                //Console.WriteLine(ex.InnerException.Message);
+                //Console.WriteLine(ex.InnerException.StackTrace);
+            }
         }
 
         public static int Dividir(int numero, int divisor)
@@ -38,9 +71,10 @@ namespace ByteBank
             }
             catch (DivideByZeroException)
             {
-                Console.WriteLine($"Exceção com numero = {numero} e divisor = {divisor}");
+                Console.WriteLine($"Exceção com numero={numero} e divisor={divisor}");
                 throw;
             }
+            
         }
 
         static void Metodo()
